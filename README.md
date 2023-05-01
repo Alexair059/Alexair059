@@ -6,5 +6,5 @@
 
 目前兴趣：AE（自编码器）；DM（扩散模型）
 
-- 想要了解更多，请关注我的博客[MZY Blog](https://alexair059.github.io/)
+- 想要了解更多，请关注我的博客 [MZY Blog](https://alexair059.github.io/)
 - Read more about my Blog [MZY Blog](https://alexair059.github.io/)
