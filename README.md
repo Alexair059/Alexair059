@@ -4,7 +4,7 @@
 
 机器学习，深度学习爱好者，喜欢各种各样很有意思的个人网站与博客，文件隐写技术
 
-目前兴趣：AE（自编码器）；DM（扩散模型）
+目前兴趣：AE（自编码器）；crypto（密码学）
 
 - 想要了解更多，请关注我的博客 [MZY Blog](https://alexair059.github.io/)
 - Read more about my Blog [MZY Blog](https://alexair059.github.io/)
