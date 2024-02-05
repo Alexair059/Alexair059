@@ -6,5 +6,7 @@
 
 目前兴趣：梯度泄漏；数据重建
 
+BSH AI 实习中
+
 - 想要了解更多，请关注我的博客 [MZY Blog](https://alexair059.github.io/)
 - Read more about my Blog [MZY Blog](https://alexair059.github.io/)
